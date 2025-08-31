@@ -27,3 +27,12 @@ clear
 
 
 this is some new changes and additional commands to add.
+
+Commands for branching and merging
+git branch 'Branch name'    (To create new branch)
+git switch Branch name or git checkout Branch name       (switch from branch to other branch)
+git log      (Latest commit)
+git log --oneline (Arrange commit line by line)
+git pull origin Branch name    (To merge Branch into master)
+git push origin dev (To push new branch to remote i.e github)
+updated code in dev
